@@ -218,3 +218,16 @@ footer a {
     margin-right: auto;
   }
 }
+@media (min-width: 1200px) {
+  iframe {
+    display: inline-block;
+    width: 45%;
+  }
+  section {
+    display: inline-block;
+    width: 50%;
+    float: right;
+    height: 20rem;
+    border-radius: 20px;
+  }
+}
